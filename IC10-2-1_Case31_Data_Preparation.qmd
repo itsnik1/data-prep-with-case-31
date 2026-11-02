@@ -438,4 +438,4 @@ data |>
 
 [GitHub Repo](https://github.com/itsnik1/data-prep-with-case-31)
 
-[GH Pages Published]()
+[GH Pages Published](https://itsnik1.github.io/data-prep-with-case-31/)
