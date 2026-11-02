@@ -436,6 +436,6 @@ data |>
 
 ## Appendix: GitHub Links
 
-[GitHub Repo]()
+[GitHub Repo](https://github.com/itsnik1/data-prep-with-case-31)
 
 [GH Pages Published]()
